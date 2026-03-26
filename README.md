@@ -58,7 +58,7 @@
 
 
 
-\## 실행 화면 (과제3) ![과제3 실행화면](img/screenshot-3.png)
+\## 실행 화면 (과제3) ![과제3 실행화면](img/screenshot-3.png.png)
 
 
 
@@ -87,7 +87,7 @@
 
 
 
-\## 실행 화면 (과제4)![과제4 실행화면](img/screenshot-4.png)
+\## 실행 화면 (과제4)![과제4 실행화면](img/screenshot-4.png.png)
 
 
 
