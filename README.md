@@ -1,4 +1,4 @@
-\## 실행 화면 (과제1) ![과제1 실행화면](img/https://github.com/njsin/SimpleCalculator/raw/master/img/screenshot-1.png)
+\## 실행 화면 (과제1) ![과제1 실행화면](img/screenshot-1.png.png)
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-\## 실행 화면 (과제2)![과제2 실행화면](img/https://github.com/njsin/SimpleCalculator/raw/master/img/screenshot-2.png)
+\## 실행 화면 (과제2)![과제2 실행화면](img/screenshot-2.png.png)
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-\## 실행 화면 (과제3) ![과제3 실행화면](img/https://github.com/njsin/SimpleCalculator/raw/master/img/screenshot-3.png)
+\## 실행 화면 (과제3) ![과제3 실행화면](img/screenshot-3.png)
 
 
 
@@ -87,7 +87,7 @@
 
 
 
-\## 실행 화면 (과제4)![과제4 실행화면](img/https://github.com/njsin/SimpleCalculator/raw/master/img/screenshot-4.png)
+\## 실행 화면 (과제4)![과제4 실행화면](img/screenshot-4.png)
 
 
 
